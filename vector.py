@@ -12,3 +12,5 @@ Scalar multiplication::
   >>> abs(v * 3)
   15.0
 """
+class Vector:
+    pass
